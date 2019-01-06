@@ -1,8 +1,7 @@
 
 """
 Zotero API programming in order to edit tags
-Written by **// Amirbahador Nasari //**
-date: 27/6/2018
+Written by **// Badoriie //**
 """
 
 #importing pyzetro API library and time package
@@ -16,8 +15,7 @@ start=time.time()
 
 # connecting to the server ("user/group ID","state","API key which can be found in zotero website")
 
-#zot = zotero.Zotero('2034407', 'group', '5jwMQvNGcjk12KMn5HUsiJsp' )
-zot = zotero.Zotero('4840414', 'user', '5jwMQvNGcjk12KMn5HUsiJsp' )
+zot = zotero.Zotero('*******', 'user', '************************' )
 
 # checking key information
 
