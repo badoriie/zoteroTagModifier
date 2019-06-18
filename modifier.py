@@ -26,7 +26,7 @@ key=zot.key_info()
 item=zot.everything(zot.items())
 
 # obtaining excepted tags from the text file
-
+# you can make a text file with the name "excepted.txt" to not consider some tags or leave it empty
 with open('excepted.txt', 'r') as f:
     exceptedTags = [line.strip() for line in f]
 
