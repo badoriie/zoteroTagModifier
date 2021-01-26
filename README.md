@@ -1,2 +1,2 @@
 # ZoteroTagModifier
-This script can eliminate the unwanted characters (&amp;,%,$,etc) from the tags in zotero software
+This script is usful to fixed the bugs in the Zotero software auto-generated tags.
