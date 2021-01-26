@@ -1,11 +1,4 @@
-
-"""
-Zotero API programming in order to edit tags
-Written by **// Badoriie //**
-"""
-
 #importing pyzetro API library and time package
-
 import time
 from pyzotero import zotero
 
